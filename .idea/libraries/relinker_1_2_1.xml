@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="relinker-1.2.1">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.android/build-cache/b25ac16acf4c1db984040612b99eca16a3783091/output/res" />
+      <root url="jar://$USER_HOME$/.android/build-cache/b25ac16acf4c1db984040612b99eca16a3783091/output/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.getkeepsafe.relinker/relinker/1.2.1/841fa9f45fd2708ae448565938e669f3fc1289b4/relinker-1.2.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

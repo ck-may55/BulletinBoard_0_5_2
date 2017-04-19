@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="android-adapters-1.2.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.android/build-cache/e5451748e9051f6782a395a447a0e2c23fd394ed/output/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.android/build-cache/e5451748e9051f6782a395a447a0e2c23fd394ed/output/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.realm/android-adapters/1.2.1/124e4f2c767472736e6a1f5820148a6e34783e18/android-adapters-1.2.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
